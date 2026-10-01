@@ -2,7 +2,6 @@
 
 ## 📌 Project Overview
 
-This project is part of my **Python Data Analytics course**.
 
 In this assignment, I worked with the **Taxi dataset** from Seaborn and performed data cleaning, analysis, and visualization using Python.
 
